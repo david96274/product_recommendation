@@ -1,12 +1,11 @@
-python_version ==3.10
-streamlit==1.44.1
-numpy==1.26.4
-pandas==2.2.3
-matplotlib==3.10.1
-seaborn==0.13.2
-scikit-learn==1.6.1
-requests==2.32.3
-nltk==3.9.1
-gensim==4.3.2
-scikit-surprise==1.1.4
-scipy==1.13.1
+ streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+nltk
+gensim
+scikit-surprise
+scipy
